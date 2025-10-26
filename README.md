@@ -1,7 +1,8 @@
 # SmartShop Counter - AI-Powered People Counting System
 
 A real-time computer vision system that automatically counts people entering and exiting retail stores using YOLO object detection and custom tracking algorithms. Features WhatsApp notifications for shop owners and managers.
-<img width="1118" height="584" alt="image" src="https://github.com/user-attachments/assets/c1f17ac1-fdc0-439c-b677-c1e6006ac1b2" />
+
+<img width="1017" height="522" alt="image" src="https://github.com/user-attachments/assets/7e68affd-5124-4404-b06b-e9b8005e47f1" />
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.12.0-green.svg)
