@@ -1,4 +1,4 @@
-# SmartShop Counter - AI-Powered People Counting System
+# HumanFlow Tracker - AI-Powered People Counting System
 
 A real-time computer vision system that automatically counts people entering and exiting retail stores using YOLO object detection and custom tracking algorithms. Features WhatsApp notifications for shop owners and managers.
 
@@ -198,7 +198,7 @@ pip install ultralytics
 ## 📁 Project Structure
 
 ```
-smartshop-counter/
+humanflow-tracker/
 ├── object_count.py                    # Basic counting system
 ├── object_count_with_notifications.py # With WhatsApp alerts
 ├── tracker.py                        # Custom tracking algorithm
